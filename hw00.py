@@ -6,7 +6,7 @@
 # Define main function 
 def main():
 	print("Hello World!"); # print a message
-
+	print ("do good and good will follow");
 
 # Run main if this script is being run 
 if __name__ == '__main__':
